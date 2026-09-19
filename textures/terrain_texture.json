@@ -1,0 +1,38 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "JJS BLOCK",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"pp_ts": {
+			"textures": "textures/blocks/icon"
+		},
+		"pp_a1": {
+			"textures": "textures/blocks/b7"
+		},
+		"pp_a2": {
+			"textures": "textures/blocks/b2"
+		},
+		"pp_a3": {
+			"textures": "textures/blocks/b3"
+		},
+		"pp_a4": {
+			"textures": "textures/blocks/b8"
+		},
+		"pp_a5": {
+			"textures": "textures/blocks/b4"
+		},
+		"pp_a6": {
+			"textures": "textures/blocks/b5"
+		},
+		"pp_a7": {
+			"textures": "textures/blocks/b6"
+		},
+		"pp_a8": {
+			"textures": "textures/blocks/b6-export"
+		},
+		"minecraft_ladder": {
+			"textures": "textures/blocks/ladder"
+		}
+	}
+}

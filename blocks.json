@@ -1,0 +1,57 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"pp:ts": {
+		"sound": "stone",
+		"textures": "pp_ts"
+	},
+	"pp:a1": {
+		"sound": "stone",
+		"textures": "pp_a1"
+	},
+	"pp:a2": {
+		"sound": "stone",
+		"textures": "pp_a2"
+	},
+	"pp:a3": {
+		"sound": "stone",
+		"textures": "pp_a3"
+	},
+	"pp:a4": {
+		"sound": "stone",
+		"textures": "pp_a4"
+	},
+	"pp:a5": {
+		"sound": "stone",
+		"textures": "pp_a5"
+	},
+	"pp:a6": {
+		"sound": "stone",
+		"textures": "pp_a6"
+	},
+	"pp:a7": {
+		"sound": "stone",
+		"textures": "pp_a7"
+	},
+	"pp:a8": {
+		"sound": "stone",
+		"textures": "pp_a8"
+	},
+	"pp:test_glass": {
+		"sound": "glass",
+		"textures": "pp_test_glass"
+	},
+	"pp:laddar_jjs": {
+		"sound": "stone"
+	},
+	"pp:lll": {
+		"sound": "stone"
+	},
+	"minecraft:ladder": {
+		"sound": "wood",
+		"textures": "ladder"
+	}
+}

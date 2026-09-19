@@ -1,0 +1,15 @@
+{
+	"resource_pack_name": "JJS BLOCK",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"pp_red": {
+			"textures": "textures/items/red"
+		},
+		"pp_dummy_egg": {
+			"textures": "textures/items/aaa"
+		},
+		"pp_body_egg": {
+			"textures": "textures/items/aaa"
+		}
+	}
+}
